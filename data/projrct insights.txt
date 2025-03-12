@@ -1,0 +1,33 @@
+
+problem solving
+data rate every week/month/day
+it should contains minimum 2 caluations
+
+make sure that it involved with more than one dbms
+
+
+
+
+
+
+
+
+three states people weights
+
+mysql:
+d1: person(id,name,phone), country, state, mandal
+
+postgres:
+table2(2cr)
+d2: table3(3cr)
+
+mysql:
+result:
+5 states
+id,country_id,state_id,district_id,mandal_id,average_weight
+
+
+
+postgres:
+db1: table1. table2. table3
+

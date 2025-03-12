@@ -1,0 +1,5 @@
+customer_id,items,date
+101,Laptop;Mouse;Keyboard,2025-03-09
+102,Smartphone;Earbuds,2025-03-08
+103,Tablet,2025-03-07
+104,Monitor;HDMICable;Speaker,2025-03-06

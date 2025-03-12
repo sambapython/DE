@@ -1,0 +1,7 @@
+transaction_id,user_id,amount,location,transaction_time
+201,1,500,Hyderabad,10-03-2025 12:00
+202,1,700,Hyderabad,10-03-2025 12:04
+203,2,200,Hyderabad,10-03-2025 14:00
+204,2,250,Chennai,10-03-2025 14:01
+205,3,1000,Banglore,10-03-2025 15:30
+206,3,1500,Hyderabad,10-03-2025 15:34
